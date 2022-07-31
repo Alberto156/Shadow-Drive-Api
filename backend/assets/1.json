@@ -1,0 +1,54 @@
+{
+  "name": "Setup Larm nft #1",
+  "symbol": "Setup larm",
+  "description": "short video about larm desk",
+  "seller_fee_basis_points": 1000,
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "swirl"
+    },
+    {
+      "trait_type": "Back Accessory",
+      "value": "Backpack"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "gray tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyesa"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clippingexample_0002_bluehair"
+    },
+    {
+      "trait_type": "Head",
+      "value": "faceB"
+    },
+    {
+      "trait_type": "Shirt Accessories",
+      "value": "nametag"
+    }
+  ],
+  "properties": {
+    "edition": 1,
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6XEErkxxC9PJHQyShiMdpMsUHM69oE1bcNggEF6ZVy8T",
+        "share": 100
+      }
+    ]
+  },
+  "creator": "Larm"
+}
